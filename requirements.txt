@@ -9,3 +9,5 @@ gunicorn
 Flask-WTF==1.0.0
 Flask-Login==0.6.3
 flask-jwt-extended==4.6.0
+itsdangerous==2.0.1
+WTForms==2.3.3
